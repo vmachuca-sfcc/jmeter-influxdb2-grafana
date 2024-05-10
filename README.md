@@ -15,7 +15,7 @@ Here you'll find Docker containers with **InfluxDB2**, which is a database for s
 - The default database defined in docker compose file is `jmeter`.
 - Follow the step-by-step setup process to generate a username, password and the access token required to configure Grafana and JMeter.
 
-## Setup Meter:
+## Setup JMeter:
 
 See full instructions on  [jmeter-influxdb2-listener-plugin](https://github.com/mderevyankoaqa/jmeter-influxdb2-listener-plugin/)  .
 
