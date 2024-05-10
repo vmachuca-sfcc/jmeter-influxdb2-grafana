@@ -1,4 +1,4 @@
-# jmeter-influxdb2-grana
+# jmeter-influxdb2-grafana
 
 Welcome! If you need to perform performance tests with **JMeter** and visualize the results in **real-time** with metrics that can truly assist you in decision-making, this solution can help you!
 
